@@ -1,5 +1,5 @@
 <h1 align="center">"Heyo👋" Barshaa</h1>
-<h3 align="center">Certified bug whisperer</h3>
+<h3 align="center">go sleep</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
